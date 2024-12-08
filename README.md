@@ -1,7 +1,7 @@
 ## Olá, sou o Paulo Ricardo Calazans 👋
 
 <p align='justify'>
-  Sou desenvolvedor de software com +5 anos anos atuando profissionalmente e mais de 10 anos programando como hobbie e aprendizado em projetos particulares, sou especializado em tecnologias backend, mas, sou um programador FullStack, desenvolvo aplicativos móveis e também sistemas web.</br>Tenho experiência com integração de sistemas, desenvolvimento de APIs RESTFul e não REST, aplicativos móveis para Android e IOS com Flutter, Sistemas Web com Angular e Spring no Backend, desenvolvimentos de customização para ERPs ou sistemas especialistas utilizando linguagens proprietárias como ABAP, Apex.
+  Sou desenvolvedor de software com +5 anos atuando profissionalmente e mais de 10 anos programando como hobbie e aprendizado em projetos particulares, sou especializado em tecnologias backend, mas, sou um programador FullStack, desenvolvo aplicativos móveis e também sistemas web.</br>Tenho experiência com integração de sistemas, desenvolvimento de APIs RESTFul e não REST, aplicativos móveis para Android e IOS com Flutter, Sistemas Web com Angular e Spring no Backend, desenvolvimentos de customização para ERPs ou sistemas especialistas utilizando linguagens proprietárias como ABAP, Apex.
 </p>
 
 ## 🛠️ Minhas Habilidades
