@@ -1,34 +1,50 @@
-## Olá, sou o Paulo Ricardo Calazans 👋
+# Olá, sou o Paulo Ricardo Calazans 👋
 
-<p align='justify'>
-  Sou desenvolvedor de software com +5 anos atuando profissionalmente e mais de 10 anos programando como hobbie e aprendizado em projetos particulares, sou especializado em tecnologias backend, mas, sou um programador FullStack, desenvolvo aplicativos móveis e também sistemas web.</br>Tenho experiência com integração de sistemas, desenvolvimento de APIs RESTFul e não REST, aplicativos móveis para Android e IOS com Flutter, Sistemas Web com Angular e Spring no Backend, desenvolvimentos de customização para ERPs ou sistemas especialistas utilizando linguagens proprietárias como ABAP, Apex.
-</p>
+Engenheiro de Software e **Líder Técnico** com foco em arquitetura de soluções, ecossistemas corporativos integrados e desenvolvimento **Full Stack**. Atuo guiando **times multidisciplinares** na entrega de ponta a ponta: desde arquitetura e APIs robustas até aplicações web (Angular) e móveis (Flutter/Nativo).
 
-## 🛠️ Minhas Habilidades
-- **Linguagens e Tecnologias**: Java, Kotlin, Spring Framework, Android Nativo (Java, Kotlin), Flutter (Android e iOS), Angular,  JPA Hibernate, Bean Validation, ABAP, SAP CI, SAP BTP
-- **Bancos de dados**: Oracle, SQL Server, MySQL, PostgreSQL
-- **Protocolos de integração**: RESTful API, OData, SOAP
-- **Metodologias do dia a dia**:  BPMN(Business Process Modeling Notation), Waterfall (Modelo em Cascata), Scrum, SAP Activate, ITIL (Information Technology Infrastructure Library)
-- **Modelos e/ou Arquitetura de Desenvolvimento**: MVC, MVVM, Clean Architecture
-- **Outros**: Testes Unitários, Testes de Integração, SOAP, Kafka
+Especialista em liderar projetos críticos de integração e melhorias contínuas conectando plataformas corporativas como **SAP**, **Salesforce (Apex)** e sistemas especialistas de terceiros, garantindo escalabilidade, governança técnica e alinhamento com as necessidades do negócio.
 
-##
-<div>
-  <a href="https://www.linkedin.com/in/paulorcalazans" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+---
 
+### 🚀 Principais Atuações
 
-<!--
-**PauloCalazans/paulocalazans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👥 **Liderança Técnica & Governança**: Direcionamento arquitetural, mentoria e facilitação técnica em squads multidisciplinares, aplicando boas práticas de engenharia de software e padrões de entrega ágil.
+- 🏢 **Ecossistema Enterprise (SAP & Salesforce)**: Condução de projetos de integração e modernização entre SAP (BTP, Cloud Integration, ABAP), Salesforce (Apex) e sistemas especialistas/terceiros.
+- ⚙️ **Backend & Integrações Críticas**: Desenvolvimento de APIs RESTful, SOAP e OData focadas em interoperabilidade segura, automação e alto volume transacional.
+- 📱 **Mobile & Frontend**: Arquitetura de aplicações ricas com Angular e criação de apps móveis multiplataforma com Flutter e suporte nativo (Java/Kotlin).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas
+
+**Liderança & Metodologias**  
+`Liderança Técnica` • `Squads Multidisciplinares` • `Scrum / Agile` • `SAP Activate` • `BPMN` • `ITIL`
+
+**Enterprise & Integrações Corporativas**  
+`SAP BTP` • `SAP Cloud Integration (CI)` • `ABAP` • `Salesforce (Apex)` • `APIs RESTful` • `OData` • `SOAP`
+
+**Linguagens & Frameworks**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+**Bancos de Dados & Persistência**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+`JPA / Hibernate`
+
+**Arquitetura & Engenharia de Software**  
+- **Padrões & Arquitetura**: Clean Architecture, Domain-Driven Design (DDD), MVVM, MVC
+- **Qualidade**: Testes Unitários e Testes de Integração automatizados
+
+---
+
+### 📬 Conecte-se comigo
+
+<a href="https://www.linkedin.com/in/paulorcalazans" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
